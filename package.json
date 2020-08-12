@@ -1,0 +1,10 @@
+{
+  "name": "free-ton-flood.github.io",
+  "private": true,
+  "version": "0.0.1",
+  "description": "free-ton-flood site",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "license": "MIT"
+}
